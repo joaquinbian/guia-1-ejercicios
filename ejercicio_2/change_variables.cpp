@@ -19,20 +19,12 @@ int main(){
     a = b;
     b = aux;
 
-    cout << "El primer numero ingresado es ";
-    cout << a;
+    cout << "El primer numero ingresado es " << a;
     
     cout << endl;
 
 
-    cout << "El segundo numero ingresado es ";
-    cout << b ;
-
-
-
-
-
-
+    cout << "El segundo numero ingresado es " << b ;
 
 
     cout << endl;
