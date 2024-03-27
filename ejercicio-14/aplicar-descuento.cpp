@@ -19,8 +19,6 @@ int main(){
 
     cin >> descuento;
 
-    cout << (100 - descuento) / 100;
-
     //con esto sacamos el porcentaje que en realidad esta pagando
     total = precio * (100 - descuento) / 100;
 
